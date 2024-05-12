@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noua", "noua\noua.csproj", "{79FF989F-7F63-46F4-8ED4-5FAF22C9BD2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FF989F-7F63-46F4-8ED4-5FAF22C9BD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FF989F-7F63-46F4-8ED4-5FAF22C9BD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FF989F-7F63-46F4-8ED4-5FAF22C9BD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FF989F-7F63-46F4-8ED4-5FAF22C9BD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {873D4FA4-B04A-4907-970E-EC8C6CCB577E}
+	EndGlobalSection
+EndGlobal
